@@ -13,7 +13,7 @@
 
 ## LINK TO PLAY:
 
-[![forthebadge](https://user-images.githubusercontent.com/86726474/152202898-9a1a4f65-3b9f-4b23-965c-1f6d9f90cdea.svg)](https://simmer.io/@bartu/break-deez-blocks-demo)
+[![forthebadge](https://user-images.githubusercontent.com/86726474/152202898-9a1a4f65-3b9f-4b23-965c-1f6d9f90cdea.svg)](https://simmer.io/@bartu/lord-of-the-winter)
 
 ## CREDITS :
 
