@@ -11,9 +11,11 @@
 * Up Arrow Button to Boost your Speed
 * Try to finish the level without bumping your head. If your head touches the ground, you die !!
 
-## LINK TO PLAY:
+## LINKS TO PLAY:
 
 [<img src="https://cms.simmer.io/content/images/2019/08/simmer-badge-super-high-resolution-2.png" width=200px>](https://simmer.io/@bartu/lord-of-the-winter)
+
+[<img src="https://static.itch.io/images/badge.svg" width=200px>](https://bartusivaci.itch.io/lord-of-the-winter)
 
 ## CREDITS :
 
